@@ -70,6 +70,6 @@ user_groups:
 - Visitors
 ---
 
-Victoria Hawco is a graduate student in Public History at Carleton University.
+Victoria Hawco is a graduate student in Public History with specialization in Digital Humanities at Carleton University.
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate. 
